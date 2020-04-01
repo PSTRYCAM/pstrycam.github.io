@@ -1152,7 +1152,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tutaj wstaw opis",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Niesamowite",
@@ -1243,7 +1243,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tutaj wstaw opis",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Niesamowite",
