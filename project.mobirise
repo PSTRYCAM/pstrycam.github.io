@@ -38,7 +38,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 34,
+    "uniqCompNum": 35,
     "versionPublish": "4.12.3",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -1153,6 +1153,19 @@
                 "customStyle1": "display-7",
                 "caption": "Tutaj wstaw opis",
                 "active": true
+              },
+              {
+                "tags": "Niesamowite",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/myszka1b-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/myszka1b-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tutaj wstaw opis",
+                "active": false
               },
               {
                 "tags": "Niesamowite",
