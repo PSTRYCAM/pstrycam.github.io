@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PSTRYCAM",
-    "currentPage": "index.html",
+    "currentPage": "portfolio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1639,8 +1639,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-6647-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6647-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7184-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7184-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
